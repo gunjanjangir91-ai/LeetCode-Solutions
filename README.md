@@ -13,6 +13,7 @@
 | [0045-jump-game-ii](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0198-house-robber](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
