@@ -9,6 +9,7 @@
 | [0198-house-robber](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Dynamic Programming
