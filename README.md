@@ -38,6 +38,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
@@ -61,5 +62,10 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
