@@ -41,6 +41,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
 | ------- | ------- |
