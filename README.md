@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0198-house-robber](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0198-house-robber/) | Medium |
@@ -24,6 +25,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0055-jump-game/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -75,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
