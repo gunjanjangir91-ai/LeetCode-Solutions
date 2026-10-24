@@ -35,6 +35,7 @@
 | [0007-reverse-integer](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0012-integer-to-roman](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@
 | [0006-zigzag-conversion](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0012-integer-to-roman](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
@@ -74,6 +76,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/gunjanjangir91-ai/LeetCode-Solutions/tree/main/3551-minimum-swaps-to-sort-by-digit-sum/) | Medium |
 ## Sliding Window
